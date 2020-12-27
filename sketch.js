@@ -2,7 +2,7 @@ function setup() {
   createCanvas(800,400);
   fixedrect=createSprite(400, 200, 80, 50);
   movingrect=createSprite(200,200,80,50);
-  movingrect.velocityX=s5
+  movingrect.velocityX=5
   movingrect.veleictyY=0.5
   fixedrect.shapeColor="green"
   movingrect.shapeColor="green"
